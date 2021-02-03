@@ -114,5 +114,5 @@ Global Classes
   height: 75px;
   object-fit: cover;
   border-radius: 50%;
-  box-shadow: var(--light-shadow);
+  box-shadow: var(--dark-shadow);
 }
